@@ -259,6 +259,11 @@ header .logo
     {
         font-size: 3em;
     }
+    /* .searchbox
+    {
+        padding: 20px;
+        transform: translateY(100%);
+    } */
     .searchbox
     {
         padding: 20px;
