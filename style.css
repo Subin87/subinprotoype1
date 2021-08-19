@@ -71,6 +71,12 @@ header .logo
     width: 100%;
     padding: 0 100px;
 }
+/* .banner
+{
+    position: relative;
+    width: 100%;
+    padding: 0 100px;
+} */
 .banner .bg
 {
     position: relative;
@@ -258,10 +264,7 @@ header .logo
         padding: 20px;
         transform: translateY(100%);
     }
-    .searchbox .inputBx
-    {
-
-    }
+    
 }
 @media (max-width:768px)
 {
